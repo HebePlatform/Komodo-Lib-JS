@@ -1,0 +1,26 @@
+{
+  "name": "komodo-lib-js",
+  "version": "1.0.0",
+  "description": "Komodo-Lib-JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HebePlatform/Komodo-Lib-JS.git"
+  },
+  "author": "HebeBlock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HebePlatform/Komodo-Lib-JS/issues"
+  },
+  "homepage": "https://github.com/HebePlatform/Komodo-Lib-JS#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bitgo-utxo-lib": "git+https://github.com/HebePlatform/bitgo-utxo-lib.git",
+    "bs58check": "^2.1.2",
+    "create-hash": "^1.2.0",
+    "secp256k1": "^3.7.1"
+  }
+}

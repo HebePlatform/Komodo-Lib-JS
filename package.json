@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/HebePlatform/Komodo-Lib-JS#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "bitgo-utxo-lib": "git+https://github.com/HebePlatform/bitgo-utxo-lib.git",
     "bs58check": "^2.1.2",
     "create-hash": "^1.2.0",
